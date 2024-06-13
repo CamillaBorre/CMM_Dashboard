@@ -1,0 +1,4 @@
+CMM_Data/*
+!CMM_Data/.gitkeep
+Data/
+*checkpoints
