@@ -15,8 +15,6 @@ Open "Run_CMM_Dashboard.ipynb" with jupyter
 If you have not used this script before change the statement "First_time = True"
 Change it back to "False" after you run it once to not install the packages everytime
 
-Check that the grid parameters are set correctly
-
 Run the whole script by clicking "Kernel" and "Restart & Run all"
 The script should now launch a "Heatmaps" and a "Capabilities" plot and produce an excel file with all results
 The files can be found in the "Data" folder
