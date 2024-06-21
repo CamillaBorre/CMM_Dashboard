@@ -19,5 +19,5 @@ Run the whole script by clicking "Kernel" and "Restart & Run all"
 The script should now launch a "Heatmaps" and a "Capabilities" plot and produce an excel file with all results
 The files can be found in the "Data" folder
 
-Further questions: contact camilla.clement.borre@lego.com 
+Further questions: contact camilla.clement.borre@lego.com or marta.rotari@lego.com
 
